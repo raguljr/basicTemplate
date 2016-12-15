@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+}
+ul{
+	list-style-type: none;
+	
+}
+li {
+	
+	display: inline;
+}
+.navbar{
+	
+	height: 70px;
+	width: 100%;
+	background-color: #ccc;
+	text-align: center;
+}
+li a{
+	padding: 30px;
+}
+
+.container{
+	border: 3px dotted pink;
+}
+ul{
+	padding: 20px;
+}
+a{
+	
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	background-color: pink;
+	color: red;
+	text-decoration: underline;
+}
+a:visited{
+	color: yellow;
+}
+
+img:hover{
+	border: 2px solid red;
+}
+a:link{
+	color:red;
+}
+
+body{
+	width:800px;
+	margin: 0 auto;
+}
+
+#nt{
+	text-align: left;
+	height: 300px;
+	overflow: hidden;
+	
+}
+#image{
+	float: right;
+	height: 300px;
+	margin-top: -300px;
+}
+
